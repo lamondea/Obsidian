@@ -11,10 +11,15 @@
             "id": "56ccad3b36a99984",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -177,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a1b05248c92a2ca",
+  "active": "56ccad3b36a99984",
   "lastOpenFiles": [
     "Séries",
     "Root/Séries/Reviews/Lamonde.md",
